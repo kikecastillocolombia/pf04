@@ -69,7 +69,3 @@ El superadmin puede definir politicas globales para las reservas (por ejemplo, p
 El superadmin puede ver estadisticas globales del hotel, como tasas de ocupación, ingresos totales y cancelaciones.
 
 El superadmin puede establecer permisos para administradores, limitando sus accesos a ciertas funciones del sistema.
-
-
-
-este es el cambio que estoy buscando
